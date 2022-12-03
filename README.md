@@ -54,8 +54,8 @@ I am a Programmer and Frontend Developer. Recently completed my B.Sc. in CSE and
 
 <h3 align="left">🤝Connect with me!</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ak" height="30" width="40" /></a>
-<a href="https://fb.com/ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anik-kumar-nath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ak" height="30" width="40" /></a>
+<a href="https://fb.com/anikkumarnath.bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ak" height="30" width="40" /></a>
 <!-- <a href="https://twitter.com/ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ak" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ak" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ak" height="30" width="40" /></a>
