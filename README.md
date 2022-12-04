@@ -4,7 +4,7 @@
 </p>
 <h3><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px> About me: </h3>
 
-👑 I am a Full stack web developer (MERN) <br>
+👑 I am a Junior Full stack web developer (MERN) <br>
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge <br>
 👨🏼‍💻 Curious to learn new technology <br>
