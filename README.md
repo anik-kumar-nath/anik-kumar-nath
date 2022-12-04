@@ -1,12 +1,14 @@
 <h1 align="center"><b>Hi , I'm Anik Kumar Nath </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github+profile.&hearts;++;Web+Developer,;Junior+MERN+Stack+Developer,;Programmar,;Computer+Science+Student,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=40&lines=Welcome+to+my+Github+Profile.&hearts;++;Web+Developer;Junior+MERN+Stack+Developer;Programmar;Computer+Science+Student,;Love+to+learn+new+stuffs..<3"></a>
 </p>
+<h3><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px> About me: </h3>
 
 👑 I am a Full stack web developer (MERN) <br>
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge <br>
 👨🏼‍💻 Curious to learn new technology <br>
+✉️ Reach me: [anikkumarnath2@gmail.com](mailto:anikkumarnath2@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)</br>
 
 <!-- ### 🚀 About Me
 <p align="justify">
